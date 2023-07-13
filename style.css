@@ -1,0 +1,46 @@
+.glass{
+    background-color: rgba(245, 245, 220, 0.926);
+    border-radius: 10px;
+    padding-block: 50px;
+    padding-inline: 100px;
+    margin-block: 50px;
+}
+.off-glass{
+    background-color: rgba(245, 245, 220, 0.933);
+    border-radius: 10px;
+    padding-block: 50px;
+    padding-inline: 100px;
+    margin-block: 50px;
+}
+.btn-primary{
+    background-color: rgba(255, 0, 200, 0.925);
+    color: inherit;
+    text-decoration: none;
+    display: block;
+    margin-inline: auto;
+    width: 250px;
+    text-align: center;
+    padding: 15px;
+    border: 2px solid rgba(255, 0, 200, 0.925);
+    border-radius: 30px;
+}
+.off-glassa{
+    background-color: olive;
+    color: black;
+    border-radius: 10px;
+    padding-block: 50px;
+    padding-inline: 100px;
+    margin-block: 50px;
+}
+
+.btn-secondary{
+    color: inherit;
+    text-decoration: none;
+    display: block;
+    margin-inline: auto;
+    width: 250px;
+    text-align: center;
+    padding: 15px;
+    border: 2px solid rgba(255, 0, 200, 0.925);
+    border-radius: 30px;
+} 
